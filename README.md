@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**mrksbgg/mrksbgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Content Creator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Latest YouTube Videos:
+<!-- YOUTUBE:START -->
+- [none](https://www.youtube.com/)
+<!-- YOUTUBE:END -->
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
+
+### Follow Me:
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCwW091gDLcXuXrwzUuWBQ5w)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mrksbgg)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/mrksbgg)
