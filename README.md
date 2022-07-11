@@ -1,13 +1,9 @@
 
 
-## Content Creator
+## mrksbgg
 
-### Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [none](https://www.youtube.com/)
-<!-- YOUTUBE:END -->
 
-### Languages and Tools:
+### Languages:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
 
 ### Follow Me:
