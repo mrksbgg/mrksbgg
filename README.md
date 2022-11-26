@@ -8,7 +8,7 @@
 <a href="https://instagram.com/mrksbgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrksbgg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/UCwW091gDLcXuXrwzUuWBQ5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCwW091gDLcXuXrwzUuWBQ5w" height="30" width="40" /></a>
 <a href="https://vk.com/mrksbgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="mrksbgg" height="30" width="40" /></a>
-<a href="https://t.me/mrksbgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="mrksbgg" height="30" width="40" /></a>
+<a href="https://t.me/mrksbgg" target="blank"><img align="center" src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-source-240px.svg" alt="mrksbgg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
