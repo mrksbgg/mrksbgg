@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Marat</h1>
-<h3 align="center">A beginner developer from Russia</h3>
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrksbgg&label=Profile%20views&color=0e75b6&style=flat" alt="mrksbgg" /> </p>
+⚡ I am an OSControl developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mrksbgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrksbgg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCwW091gDLcXuXrwzUuWBQ5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCwW091gDLcXuXrwzUuWBQ5w" height="30" width="40" /></a>
-<a href="https://vk.com/mrksbgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="mrksbgg" height="30" width="40" /></a>
-<a href="https://t.me/mrksbgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrksbgg/mrksbgg/main/telegram.svg" alt="mrksbgg" height="30" width="40" /></a>
-</p>
+|[![Github stats](https://github-readme-stats.vercel.app/api?username=mrksbgg&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width=150 height=150 />|
+|:---:|:---:|
+|[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrksbgg&theme=radical&layout=compact)](https://wakatime.com/mrksbgg)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrksbgg&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)|
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+### Contact me 🔗
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrksbgg)](https://wakatime.com/@mrksbgg)
+- <a href="https://t.me/mrksbgg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=14 height=14 /> Telegram</a>
+- <a href="https://vk.com/mrksbgg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/1024px-VK_Compact_Logo.svg.png" width=14 height=14 /> VK</a>
+
