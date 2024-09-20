@@ -1,9 +1,16 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrksbgg&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrksbgg&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
----
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrksbgg&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
----
-### Contact me 🔗
+# 👋 Hello there!
+### I'm Marat, and I'm 15.
 
-- <a href="https://t.me/chapmanreeed"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=14 height=14 /> Telegram</a>
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kittynewyork)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1097383143708827679)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kreewxq)
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrksbgg&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrksbgg&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 Profile Views:      
+[![](https://visitcount.itsvg.in/api?id=mrksbgg&icon=0&color=0)](https://visitcount.itsvg.in)
