@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrksbgg&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 Profile Views:      
-[![](https://visitcount.itsvg.in/api?id=mrksbgg&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mrksbgg&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
